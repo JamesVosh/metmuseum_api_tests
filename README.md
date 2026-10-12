@@ -14,8 +14,8 @@
 4) source .venv/bin/activate
 
 ### For Windows
-5) .venv\Scripts\activate
+4) .venv\Scripts\activate
 
-6) pip install -r requirements.txt
+5) pip install -r requirements.txt
 
-7) pytest
+6) pytest
